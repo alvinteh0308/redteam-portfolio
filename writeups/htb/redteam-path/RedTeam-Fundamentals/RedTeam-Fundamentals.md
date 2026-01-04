@@ -10,4 +10,4 @@ The objective is to understand the classification, responsibilities, real-world 
 
 - Understand the importance of standard cyber kill chains, especially the classic Lockheed Martin Cyber ​​Kill Chain.
 
-- Understand some basic kill chain components, such as reconnaissance, weaponization, delivery, and exploitation.
+- Understand some basic kill chain components, such as reconnaissance, weaponization, delivery, exploitation, etc.
